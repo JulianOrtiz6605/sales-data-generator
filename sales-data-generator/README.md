@@ -13,16 +13,8 @@ No user input is required.
 
 ---
 
-## 🗂️ Project Structure
-SalesProjectJava/
-├─ src/
-│  └─ edu/proyecto/
-│     ├─ GenerateInfoFiles.java
-│     └─ Main.java
-├─ data/
-│  ├─ input/   # created when generating data
-│  └─ output/  # created when generating reports
-└─ README.md
+<img width="883" height="479" alt="image" src="https://github.com/user-attachments/assets/ca2977d5-1080-483a-9e3c-d32ffa6404c5" />
+
 
 
 
