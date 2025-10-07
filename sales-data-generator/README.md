@@ -116,12 +116,12 @@ If your files have different column names, adjust the lists in the `indexOf(...)
 
 ## 👤 Authors
 
-Developed by **
-Liria Avendaño Gomez
-Juan Diego Cusba Garcia
-Alejandro Mesa Velez
-Juan Nicolas Torres Moreno
-Julian David Ortiz Bedoya
-**  
+Developed by  
+**Liria Avendaño Gómez**  
+**Juan Diego Cusba García**  
+**Alejandro Mesa Vélez**  
+**Juan Nicolás Torres Moreno**  
+**Julián David Ortiz Bedoya**  
+
 *Politécnico Grancolombiano — Software Engineering Program*
 
