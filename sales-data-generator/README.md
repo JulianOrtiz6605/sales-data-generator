@@ -114,8 +114,14 @@ If your files have different column names, adjust the lists in the `indexOf(...)
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
-Developed by **Julián Ortiz**  
+Developed by **
+Liria Avendaño Gomez
+Juan Diego Cusba Garcia
+Alejandro Mesa Velez
+Juan Nicolas Torres Moreno
+Julian David Ortiz Bedoya
+**  
 *Politécnico Grancolombiano — Software Engineering Program*
 
