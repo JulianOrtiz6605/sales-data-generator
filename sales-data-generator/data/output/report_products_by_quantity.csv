@@ -1,0 +1,13 @@
+product_id,product_name,total_units,total_revenue,distinct_sellers,top_seller_id,top_seller_units
+P005,Hogar Max,123,10074.93,8,S006,37
+P012,Deportes Mini,104,8001.76,8,S007,35
+P003,Electrónica Eco,104,7013.76,8,S008,27
+P004,Alimentos Lite,94,3939.54,6,S005,25
+P006,Deportes Max,93,2281.29,8,S008,21
+P008,Jardín Smart,78,3846.96,6,S008,24
+P009,Alimentos Ultra,73,3272.59,6,S008,33
+P001,Belleza Prime,72,2247.12,8,S007,19
+P010,Electrónica Prime,72,3189.60,6,S002,21
+P011,Alimentos Air,70,2111.90,5,S002,24
+P007,Jardín Plus,49,4742.22,6,S005,18
+P002,Ropa Air,46,4286.74,5,S002,18

@@ -1,0 +1,9 @@
+seller_id,seller_name,total_units,total_revenue,distinct_products,top_product_id,top_product_units
+S008,Mateo Martínez,208,11364.07,12,P009,33
+S002,Mateo Gómez,140,8247.62,10,P011,24
+S007,Andrés Rodríguez,141,7853.78,11,P012,35
+S005,Laura Gómez,121,6565.41,10,P004,25
+S006,Laura Martínez,95,5696.36,11,P005,37
+S001,Luisa Gómez,90,5306.37,9,P005,24
+S004,Andrés Morales,99,5189.20,7,P006,21
+S003,Laura Gómez,84,4785.60,10,P009,20

@@ -1,0 +1,10 @@
+RESUMEN DE PROCESAMIENTO
+------------------------
+Fecha de ejecución: 2025-10-06
+
+Registros leídos:
+  - Sellers: 8
+  - Products: 12
+  - Sales: 220
+
+Reportes generados en: C:\Users\julia\eclipse-workspace\ProyectoVentasJava\data\output
