@@ -14,16 +14,16 @@ No user input is required.
 ---
 
 ## 🗂️ Project Structure
-
 SalesProjectJava/
 ├─ src/
 │  └─ edu/proyecto/
 │     ├─ GenerateInfoFiles.java
 │     └─ Main.java
 ├─ data/
-│  ├─ input/   (created when generating data)
-│  └─ output/  (created when generating reports)
+│  ├─ input/   # created when generating data
+│  └─ output/  # created when generating reports
 └─ README.md
+
 
 
 
